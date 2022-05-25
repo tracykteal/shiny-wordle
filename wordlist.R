@@ -2,7 +2,7 @@
 # http://www.poslarchive.com/math/scrabble/lists/common-5.html
 
 words_common <- c(
-  'abaaa',
+  'aback',
   'abate',
   'abbey',
   'abhor',
